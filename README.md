@@ -1,4 +1,4 @@
-# Seattle-Library-Project
+# Seattle-Library-Project WIP
 
 The purpose of this project is to analyze Seattle library checkout records and demonstrate data analysis skills using Jupyter Notebook.
 
