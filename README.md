@@ -1,6 +1,6 @@
 # Seattle-Library-Project WIP
 
-The purpose of this project is to analyze Seattle library checkout records and demonstrate data analysis skills using Jupyter Notebook.
+The purpose of this project is to analyze Seattle library checkout records and demonstrate data analysis skills using Jupyter Notebook. Please download the Jupyter Notebook in order to access my work as github will not demonstrate the plots correctly. Check up regularly to see updates I make to this project and any other projects I undertake!
 
 ## Source Data in Kaggle
 
